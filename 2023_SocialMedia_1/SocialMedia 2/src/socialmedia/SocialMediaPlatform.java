@@ -7,7 +7,7 @@ package socialmedia;
  * empty platform with no initial accounts nor posts within it. For Pair
  * submissions.
  * 
- * @author Diogo Pacheco
+ * @author Sunil kumar
  * @version 1.0
  *
  */

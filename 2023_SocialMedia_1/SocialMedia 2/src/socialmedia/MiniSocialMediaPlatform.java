@@ -9,7 +9,7 @@ import java.io.Serializable;
  * an empty platform with no initial accounts nor posts within it. For Solo
  * submissions ONLY.
  * 
- * @author Diogo Pacheco
+ * @author Sunil kumar
  * @version 1.0
  *
  */

@@ -11,7 +11,7 @@ import socialmedia.SocialMediaPlatform;
  * BadSocialMedia class).
  *
  * 
- * @author Diogo Pacheco
+ * @author Sunil kumar
  * @version 1.0
  */
 public class SocialMediaPlatformTestApp {

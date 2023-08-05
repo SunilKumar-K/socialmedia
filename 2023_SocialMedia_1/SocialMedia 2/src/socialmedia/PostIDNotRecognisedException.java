@@ -3,7 +3,7 @@ package socialmedia;
 /**
  * Thrown when attempting to use a post ID that does not exit in the system.
  * 
- * @author Diogo Pacheco
+ * @author Sunil kumar
  * @version 1.0
  *
  */

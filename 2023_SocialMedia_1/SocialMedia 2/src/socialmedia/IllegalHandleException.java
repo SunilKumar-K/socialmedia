@@ -4,7 +4,7 @@ package socialmedia;
  * Thrown when attempting to assign an account handle already in use in the
  * system.
  * 
- * @author Diogo Pacheco
+ * @author Sunil kumar
  * @version 1.0
  *
  */

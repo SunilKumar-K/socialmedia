@@ -3,7 +3,7 @@ package socialmedia;
 /**
  * Thrown when attempting to act upon an not-actionable post.
  * 
- * @author Diogo Pacheco
+ * @author Sunil kumar
  * @version 1.0
  *
  */

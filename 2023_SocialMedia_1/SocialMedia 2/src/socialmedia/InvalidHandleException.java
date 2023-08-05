@@ -5,7 +5,7 @@ package socialmedia;
  * the system limit of characters. A handle must be a single word, i.e., no
  * white spaces allowed.
  * 
- * @author Diogo Pacheco
+ * @author Sunil kumar
  * @version 1.0
  *
  */

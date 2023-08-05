@@ -4,7 +4,7 @@ package socialmedia;
  * Thrown when attempting to use an account handle that does not exit in the
  * system.
  * 
- * @author Diogo Pacheco
+ * @author Sunil kumar
  * @version 1.0
  *
  */

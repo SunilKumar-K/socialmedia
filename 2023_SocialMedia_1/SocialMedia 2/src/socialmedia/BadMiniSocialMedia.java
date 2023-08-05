@@ -6,7 +6,7 @@ import java.io.IOException;
  * BadMiniSocialMedia is a minimally compiling, but non-functioning implementor
  * of the MiniSocialMediaPlatform interface.
  * 
- * @author Diogo Pacheco
+ * @author Sunil kumar
  * @version 1.0
  */
 public class BadMiniSocialMedia implements MiniSocialMediaPlatform {
